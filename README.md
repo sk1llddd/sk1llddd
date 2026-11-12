@@ -4,7 +4,7 @@ I'm **sk1lld**, I am currently a Specialized Devices Lead for the [Oreon Project
 
 - 🔭 Working on **Oreon VR**, bringing Oreon to standalone headsets
 - 🌱 Learning more about Linux and Linux kernel development
-- 📫 Reach me at: sk1lld@sk1lld.xyz, @sk1lld_ on Discord or @sk1lld:sk1lld.xyz on Matrix
+- 📫 Reach me at: sk1lld@sk1lld.xyz, @sk1lld_ on Discord or @sk1lld:matrix.org on Matrix
 
 ### What I use
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
